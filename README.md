@@ -26,8 +26,7 @@ This is the solution Frontend Member provided.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://machocamacho1.github.io/Blog-Preview-Card/)
 
 ## My process
 
